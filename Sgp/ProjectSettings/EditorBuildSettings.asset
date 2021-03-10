@@ -17,4 +17,82 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/scene4.unity
     guid: 974a37673d038da4fb43fde98adaf069
+  - enabled: 1
+    path: Assets/Scenes/Capital/A.unity
+    guid: 304a5748b784bc241be3c08d67013b21
+  - enabled: 1
+    path: Assets/Scenes/Capital/B.unity
+    guid: 9b9eb97a2777426458ef06d237e3a2f7
+  - enabled: 1
+    path: Assets/Scenes/Capital/C.unity
+    guid: 01c56988854458d449e4b285986499c0
+  - enabled: 1
+    path: Assets/Scenes/Capital/D.unity
+    guid: 0f60952c202407a4aa389e5a742800e1
+  - enabled: 1
+    path: Assets/Scenes/Capital/E.unity
+    guid: a216642ccdd152545b6e01f826383274
+  - enabled: 1
+    path: Assets/Scenes/Capital/F.unity
+    guid: 985eb75c3809acb42a2a6f8b96ae9196
+  - enabled: 1
+    path: Assets/Scenes/Capital/G.unity
+    guid: 6ed29f66899b24645ae500a0418848cb
+  - enabled: 1
+    path: Assets/Scenes/Capital/H.unity
+    guid: 32840c5a74bca0d44ba810f1ba8091ab
+  - enabled: 1
+    path: Assets/Scenes/Capital/I.unity
+    guid: 2b28536e0da035744b8bc4fcafd28bd4
+  - enabled: 1
+    path: Assets/Scenes/Capital/J.unity
+    guid: d3c22fb0bc25cec4eae1945ddfe41605
+  - enabled: 1
+    path: Assets/Scenes/Capital/K.unity
+    guid: 64792c8836e3a234283daa6176a7598f
+  - enabled: 1
+    path: Assets/Scenes/Capital/L.unity
+    guid: aabc4c0fe2dbc1544b0fd0aa3d1e2044
+  - enabled: 1
+    path: Assets/Scenes/Capital/M.unity
+    guid: ec3356b510024c74988032f9fbd4de1b
+  - enabled: 1
+    path: Assets/Scenes/Capital/N.unity
+    guid: d3c9b6d10011e8043bc17c754d1c18f9
+  - enabled: 1
+    path: Assets/Scenes/Capital/O.unity
+    guid: 8a6d7e001ea1d4847aadce602df9a40d
+  - enabled: 1
+    path: Assets/Scenes/Capital/P.unity
+    guid: 019ceae3bf38b6b4a8d544895b2aa207
+  - enabled: 1
+    path: Assets/Scenes/Capital/Q.unity
+    guid: 5e38dea4a59ec1a4a9a3862792409cd5
+  - enabled: 1
+    path: Assets/Scenes/Capital/R.unity
+    guid: c7481bdb6d4e88f40b735f62bf0cd3a8
+  - enabled: 1
+    path: Assets/Scenes/Capital/S.unity
+    guid: 20dbf5a89611dbf44baf58afb8eff32e
+  - enabled: 1
+    path: Assets/Scenes/Capital/T.unity
+    guid: 9fc7845890f0d6c4d9756df803bf98e2
+  - enabled: 1
+    path: Assets/Scenes/Capital/U.unity
+    guid: f435e844203ba454c9a0c66716351764
+  - enabled: 1
+    path: Assets/Scenes/Capital/V.unity
+    guid: 6591320fec61fe545994301bb64a7447
+  - enabled: 1
+    path: Assets/Scenes/Capital/W.unity
+    guid: e8262965d6db74345a4ccef24215916a
+  - enabled: 1
+    path: Assets/Scenes/Capital/X.unity
+    guid: eb5ce84b046e4f441a92d21553de6a3b
+  - enabled: 1
+    path: Assets/Scenes/Capital/Y.unity
+    guid: c4760d2f98d10e243a9026ee70b0b98d
+  - enabled: 1
+    path: Assets/Scenes/Capital/Z.unity
+    guid: b42af63f03c9c2240869b4d1624ab140
   m_configObjects: {}
