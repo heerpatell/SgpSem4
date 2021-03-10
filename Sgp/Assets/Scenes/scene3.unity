@@ -240,15 +240,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2142870325}
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 2142870326}
+        m_MethodName: btn_change_scene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: W
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &14014123
@@ -1037,15 +1037,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2142870325}
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 2142870326}
+        m_MethodName: btn_change_scene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: C
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &257246723
@@ -1167,15 +1167,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2142870325}
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 2142870326}
+        m_MethodName: btn_change_scene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: Y
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &257679157
@@ -1297,15 +1297,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2142870325}
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 2142870326}
+        m_MethodName: btn_change_scene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: R
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &280652469
@@ -1427,15 +1427,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2142870325}
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 2142870326}
+        m_MethodName: btn_change_scene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: E
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &299313206
@@ -1557,15 +1557,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2142870325}
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 2142870326}
+        m_MethodName: btn_change_scene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: K
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &325162450
@@ -2447,15 +2447,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2142870325}
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 2142870326}
+        m_MethodName: btn_change_scene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: J
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &595400648
@@ -2577,15 +2577,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2142870325}
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 2142870326}
+        m_MethodName: btn_change_scene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: L
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &606741905
@@ -3112,15 +3112,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2142870325}
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 2142870326}
+        m_MethodName: btn_change_scene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: I
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &749443898
@@ -3774,15 +3774,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2142870325}
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 2142870326}
+        m_MethodName: btn_change_scene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: N
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &784270626
@@ -3904,15 +3904,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2142870325}
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 2142870326}
+        m_MethodName: btn_change_scene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: B
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &825528149
@@ -4034,15 +4034,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2142870325}
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 2142870326}
+        m_MethodName: btn_change_scene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: F
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &857576046
@@ -4762,15 +4762,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2142870325}
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 2142870326}
+        m_MethodName: btn_change_scene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: X
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &1047716504
@@ -4892,15 +4892,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2142870325}
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 2142870326}
+        m_MethodName: btn_change_scene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: M
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &1061910017
@@ -5389,15 +5389,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2142870325}
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 2142870326}
+        m_MethodName: btn_change_scene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: P
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &1122303720
@@ -5785,15 +5785,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2142870325}
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 2142870326}
+        m_MethodName: btn_change_scene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: H
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &1395288165
@@ -5915,15 +5915,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2142870325}
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 2142870326}
+        m_MethodName: btn_change_scene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: S
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &1501307283
@@ -6045,15 +6045,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2142870325}
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 2142870326}
+        m_MethodName: btn_change_scene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: T
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &1532868325
@@ -6175,15 +6175,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2142870325}
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 2142870326}
+        m_MethodName: btn_change_scene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: V
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &1593147826
@@ -6438,15 +6438,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2142870325}
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 2142870326}
+        m_MethodName: btn_change_scene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: O
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &1618302512
@@ -6568,15 +6568,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2142870325}
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 2142870326}
+        m_MethodName: btn_change_scene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: U
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &1652120343
@@ -6961,15 +6961,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2142870325}
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 2142870326}
+        m_MethodName: btn_change_scene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: D
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &1767537985
@@ -7091,15 +7091,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2142870325}
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 2142870326}
+        m_MethodName: btn_change_scene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: Q
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &1801089353
@@ -7664,15 +7664,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2142870325}
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 2142870326}
+        m_MethodName: btn_change_scene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: Z
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &2129555524
@@ -7794,15 +7794,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2142870325}
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 2142870326}
+        m_MethodName: btn_change_scene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: G
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &2142870325
