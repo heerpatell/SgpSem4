@@ -768,37 +768,37 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: cb391772051bbab41b0d48c7309573b5,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -396.10077
+      value: -413
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: cb391772051bbab41b0d48c7309573b5,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -134.33
+      value: -134.37
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: cb391772051bbab41b0d48c7309573b5,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 21.971304
+      value: 26.3
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: cb391772051bbab41b0d48c7309573b5,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.24484697
+      value: -0.31716484
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: cb391772051bbab41b0d48c7309573b5,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.24484695
+      value: 0.31716496
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: cb391772051bbab41b0d48c7309573b5,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.6633626
+      value: -0.63198626
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: cb391772051bbab41b0d48c7309573b5,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.6633626
+      value: -0.631986
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: cb391772051bbab41b0d48c7309573b5,
         type: 3}
@@ -813,7 +813,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: cb391772051bbab41b0d48c7309573b5,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: -40.518005
+      value: -413.3
       objectReference: {fileID: 0}
     - target: {fileID: -7511558181221131132, guid: cb391772051bbab41b0d48c7309573b5,
         type: 3}
