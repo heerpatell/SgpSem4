@@ -606,22 +606,22 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: c747542ddfdcf8d4088f845539de3475,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0
+      value: -401.46
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c747542ddfdcf8d4088f845539de3475,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -132
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c747542ddfdcf8d4088f845539de3475,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -31.48
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c747542ddfdcf8d4088f845539de3475,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.34202018
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c747542ddfdcf8d4088f845539de3475,
         type: 3}
@@ -631,12 +631,12 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: c747542ddfdcf8d4088f845539de3475,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0.9396927
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c747542ddfdcf8d4088f845539de3475,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c747542ddfdcf8d4088f845539de3475,
         type: 3}
@@ -646,13 +646,19 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: c747542ddfdcf8d4088f845539de3475,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: 140
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c747542ddfdcf8d4088f845539de3475,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: c747542ddfdcf8d4088f845539de3475,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: -8198651777387130083, guid: f9568464cfcf31f4fa0c3ca20cb3374e,
+        type: 3}
     - target: {fileID: 919132149155446097, guid: c747542ddfdcf8d4088f845539de3475,
         type: 3}
       propertyPath: m_Name
