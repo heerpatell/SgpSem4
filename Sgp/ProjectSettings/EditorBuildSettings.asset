@@ -6,9 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/scene1.unity
-    guid: 29e34d5eb8116884190f4ff6acb94455
-  - enabled: 1
     path: Assets/Scenes/HomePage.unity
     guid: 1e28bb5e70d0bcc4bbeff5df7f13cdb8
   - enabled: 1
@@ -40,13 +37,13 @@ EditorBuildSettings:
     guid: 985eb75c3809acb42a2a6f8b96ae9196
   - enabled: 1
     path: Assets/Scenes/Capital/G.unity
-    guid: 6ed29f66899b24645ae500a0418848cb
+    guid: a64b1f4800ba69648ab5c569f2cdec55
   - enabled: 1
     path: Assets/Scenes/Capital/H.unity
     guid: 32840c5a74bca0d44ba810f1ba8091ab
   - enabled: 1
     path: Assets/Scenes/Capital/I.unity
-    guid: 2b28536e0da035744b8bc4fcafd28bd4
+    guid: 2d889462c823f384caa787e19b30a116
   - enabled: 1
     path: Assets/Scenes/Capital/J.unity
     guid: d3c22fb0bc25cec4eae1945ddfe41605
@@ -58,7 +55,7 @@ EditorBuildSettings:
     guid: aabc4c0fe2dbc1544b0fd0aa3d1e2044
   - enabled: 1
     path: Assets/Scenes/Capital/M.unity
-    guid: ec3356b510024c74988032f9fbd4de1b
+    guid: 734233634bf49eb468c939f53d41ea35
   - enabled: 1
     path: Assets/Scenes/Capital/N.unity
     guid: d3c9b6d10011e8043bc17c754d1c18f9
@@ -79,7 +76,7 @@ EditorBuildSettings:
     guid: 20dbf5a89611dbf44baf58afb8eff32e
   - enabled: 1
     path: Assets/Scenes/Capital/T.unity
-    guid: 9fc7845890f0d6c4d9756df803bf98e2
+    guid: 36f1f824c9d25694f9ae8e6e0fc23e42
   - enabled: 1
     path: Assets/Scenes/Capital/U.unity
     guid: f435e844203ba454c9a0c66716351764
@@ -88,7 +85,7 @@ EditorBuildSettings:
     guid: 6591320fec61fe545994301bb64a7447
   - enabled: 1
     path: Assets/Scenes/Capital/W.unity
-    guid: e8262965d6db74345a4ccef24215916a
+    guid: 3fe8868ef9201534c8530fae03ecc6d6
   - enabled: 1
     path: Assets/Scenes/Capital/X.unity
     guid: eb5ce84b046e4f441a92d21553de6a3b
@@ -97,83 +94,65 @@ EditorBuildSettings:
     guid: c4760d2f98d10e243a9026ee70b0b98d
   - enabled: 1
     path: Assets/Scenes/Capital/Z.unity
-    guid: b42af63f03c9c2240869b4d1624ab140
-  - enabled: 1
-    path: Assets/Scenes/Small/A1.unity
-    guid: 9542007ad362fec42a36eecbb26dab49
-  - enabled: 1
-    path: Assets/Scenes/Small/B1.unity
-    guid: 03a21b730d3b19a4da8c839a39e6bfb2
-  - enabled: 1
-    path: Assets/Scenes/Small/C1.unity
-    guid: 2a4d7843bbaaa964fba70c1af39fb7a0
-  - enabled: 1
-    path: Assets/Scenes/Small/D1.unity
-    guid: 871e0a3f4fa85534aab65ded1ccd8416
-  - enabled: 1
-    path: Assets/Scenes/Small/E1.unity
-    guid: 289b5cf1821d8cd4982b5389c26550c8
-  - enabled: 1
-    path: Assets/Scenes/Small/F1.unity
-    guid: e328503520786db469280aa84f9a3526
-  - enabled: 1
-    path: Assets/Scenes/Small/G1.unity
-    guid: 32bcdc4c69c0ae74ab9ddec0d01c91c0
-  - enabled: 1
-    path: Assets/Scenes/Small/H1.unity
-    guid: 499a99f1a9f875f428e117cb8547a5ca
-  - enabled: 1
-    path: Assets/Scenes/Small/I1.unity
-    guid: cd84ff8c8cf6564439279cb8ac2de776
-  - enabled: 1
-    path: Assets/Scenes/Small/J1.unity
-    guid: a2f87eb4e03e10046828629d5569ebaf
-  - enabled: 1
-    path: Assets/Scenes/Small/K1.unity
-    guid: dbe51f131054ed242a201bd965150272
-  - enabled: 1
-    path: Assets/Scenes/Small/L1.unity
-    guid: 7ded33446a0d6834d8fc1d7532acfb20
-  - enabled: 1
-    path: Assets/Scenes/Small/M1.unity
-    guid: ab855f097bd00b7469cfb24863a2cb46
-  - enabled: 1
-    path: Assets/Scenes/Small/N1.unity
-    guid: 92ea5ba4f598ebb4fbc8ee8ad9220897
-  - enabled: 1
-    path: Assets/Scenes/Small/O1.unity
-    guid: 5a6fa6b9c92985e48b22b3eb2834e839
-  - enabled: 1
-    path: Assets/Scenes/Small/P1.unity
-    guid: b9d9f45d77547fb49977a7e93f2fc0da
-  - enabled: 1
-    path: Assets/Scenes/Small/Q1.unity
-    guid: 43451486337e8054b8160b5e31cd4a1b
-  - enabled: 1
-    path: Assets/Scenes/Small/R1.unity
-    guid: ea98e20ccd4066f46af8f6073099c557
-  - enabled: 1
-    path: Assets/Scenes/Small/S1.unity
-    guid: bd394b9ef4b3a9449ab33bcac57db856
-  - enabled: 1
-    path: Assets/Scenes/Small/T1.unity
-    guid: 7b98bc265b7380048aae91b8bf34b46a
-  - enabled: 1
-    path: Assets/Scenes/Small/U1.unity
-    guid: c2a8844b53b59c04884ba316394a9d76
-  - enabled: 1
-    path: Assets/Scenes/Small/V1.unity
-    guid: 74d41eda9c7258349a17becba667db2d
-  - enabled: 1
-    path: Assets/Scenes/Small/W1.unity
-    guid: feb8bc73ed7f22241875b2ed16abf470
-  - enabled: 1
-    path: Assets/Scenes/Small/X1.unity
-    guid: 4055adf9b6b5ba9489de2eb1b8c3d86c
-  - enabled: 1
-    path: Assets/Scenes/Small/Y1.unity
-    guid: ffee902e0c126b44892599a14d2b4880
-  - enabled: 1
-    path: Assets/Scenes/Small/Z1.unity
-    guid: fca86f1c47083a747b7225cfc6839542
+    guid: 1a5cc213f4bf7324c99fa18b1b11f4cf
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   m_configObjects: {}
