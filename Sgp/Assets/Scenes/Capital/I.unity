@@ -1027,7 +1027,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &629611566
 GameObject:
@@ -1154,7 +1154,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &830151582 stripped
 Transform:
@@ -1265,8 +1265,10 @@ RectTransform:
   - {fileID: 1388619628}
   - {fileID: 496076529}
   - {fileID: 1213242949}
+  - {fileID: 1380683081}
+  - {fileID: 1742502394}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -1732,47 +1734,62 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 951802742}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: b5d5e6b57d3fcc14784abaeb27a8ec8f,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b5d5e6b57d3fcc14784abaeb27a8ec8f,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 76.04559
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b5d5e6b57d3fcc14784abaeb27a8ec8f,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 76.04561
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b5d5e6b57d3fcc14784abaeb27a8ec8f,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 76.04559
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b5d5e6b57d3fcc14784abaeb27a8ec8f,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 8.33
+      value: -393.66537
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b5d5e6b57d3fcc14784abaeb27a8ec8f,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 33.155663
+      value: -134.48238
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b5d5e6b57d3fcc14784abaeb27a8ec8f,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -41.61
+      value: -31.642586
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b5d5e6b57d3fcc14784abaeb27a8ec8f,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.12280917
+      value: -0.12280918
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b5d5e6b57d3fcc14784abaeb27a8ec8f,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.12276631
+      value: 0.122766316
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b5d5e6b57d3fcc14784abaeb27a8ec8f,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.69648576
+      value: 0.6964858
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b5d5e6b57d3fcc14784abaeb27a8ec8f,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.6962427
+      value: 0.69624275
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b5d5e6b57d3fcc14784abaeb27a8ec8f,
         type: 3}
@@ -1792,10 +1809,16 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b5d5e6b57d3fcc14784abaeb27a8ec8f,
         type: 3}
       propertyPath: m_Name
-      value: NewIgloo
+      value: Igloo
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b5d5e6b57d3fcc14784abaeb27a8ec8f, type: 3}
+--- !u!4 &1380683081 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: b5d5e6b57d3fcc14784abaeb27a8ec8f,
+    type: 3}
+  m_PrefabInstance: {fileID: 1380683080}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1388619627
 GameObject:
   m_ObjectHideFlags: 0
@@ -1941,7 +1964,7 @@ GameObject:
   - component: {fileID: 1573104660}
   - component: {fileID: 1573104661}
   m_Layer: 0
-  m_Name: Horse
+  m_Name: Ice cream
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1976,10 +1999,10 @@ MonoBehaviour:
   data: 0
   entries:
   - Language: English
-    Text: Horse
+    Text: Ice cream
     Object: {fileID: 0}
   - Language: Gujarati
-    Text: "\u0A98\u0ACB\u0AA1\u0ACB"
+    Text: "\u0A86\u0A88\u0AB8\u0ACD\u0A95\u0ACD\u0AB0\u0AC0\u0AAE"
     Object: {fileID: 0}
 --- !u!1 &1621202785
 GameObject:
@@ -2237,49 +2260,49 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1742502393
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 951802742}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: f91345aa6fe8b7d409cefd77300c2e9a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f91345aa6fe8b7d409cefd77300c2e9a,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 12
+      value: 9.125475
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f91345aa6fe8b7d409cefd77300c2e9a,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 12
+      value: 9.125475
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f91345aa6fe8b7d409cefd77300c2e9a,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 12
+      value: 9.125475
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f91345aa6fe8b7d409cefd77300c2e9a,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.14
+      value: -399.13306
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f91345aa6fe8b7d409cefd77300c2e9a,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 33.248558
+      value: -134.41173
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f91345aa6fe8b7d409cefd77300c2e9a,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -44.909737
+      value: -34.15189
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f91345aa6fe8b7d409cefd77300c2e9a,
         type: 3}
@@ -2289,7 +2312,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: f91345aa6fe8b7d409cefd77300c2e9a,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f91345aa6fe8b7d409cefd77300c2e9a,
         type: 3}
@@ -2299,7 +2322,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: f91345aa6fe8b7d409cefd77300c2e9a,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f91345aa6fe8b7d409cefd77300c2e9a,
         type: 3}
@@ -2319,10 +2342,16 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f91345aa6fe8b7d409cefd77300c2e9a,
         type: 3}
       propertyPath: m_Name
-      value: 3December2020_Day09_IceCream_v1
+      value: Ice cream
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f91345aa6fe8b7d409cefd77300c2e9a, type: 3}
+--- !u!4 &1742502394 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: f91345aa6fe8b7d409cefd77300c2e9a,
+    type: 3}
+  m_PrefabInstance: {fileID: 1742502393}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1839220690
 GameObject:
   m_ObjectHideFlags: 0
@@ -2336,7 +2365,7 @@ GameObject:
   - component: {fileID: 1839220693}
   - component: {fileID: 1839220692}
   m_Layer: 5
-  m_Name: House
+  m_Name: Igloo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2359,7 +2388,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 222.09998, y: -87}
-  m_SizeDelta: {x: 160, y: 30}
+  m_SizeDelta: {x: 210, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1839220692
 MonoBehaviour:
@@ -2373,8 +2402,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7ee4021ce59f313499a5cab041f02aba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: House
-  FallbackText: House
+  translationName: Igloo
+  FallbackText: Igloo
 --- !u!114 &1839220693
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2407,7 +2436,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: House
+  m_Text: "\u0A8F\u0AB8\u0ACD\u0A95\u0ABF\u0AAE\u0ACB\u0AA8\u0AC1\u0A82 \u0A97\u0ACB\u0AB3
+    \u0A98\u0AC1\u0AAE\u0ACD\u0AAE\u0A9F \u0A86\u0A95\u0ABE\u0AB0\u0AA8\u0AC1\u0A82
+    \u0AAC\u0AB0\u0AAB\u0AA8\u0AC1\u0A82 \u0AA5\u0AB0"
 --- !u!222 &1839220694
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2722,7 +2753,7 @@ GameObject:
   - component: {fileID: 1973022406}
   - component: {fileID: 1973022407}
   m_Layer: 0
-  m_Name: House
+  m_Name: Igloo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2757,10 +2788,12 @@ MonoBehaviour:
   data: 0
   entries:
   - Language: English
-    Text: House
+    Text: Igloo
     Object: {fileID: 0}
   - Language: Gujarati
-    Text: "\u0A98\u0AB0"
+    Text: "\u0A8F\u0AB8\u0ACD\u0A95\u0ABF\u0AAE\u0ACB\u0AA8\u0AC1\u0A82 \u0A97\u0ACB\u0AB3
+      \u0A98\u0AC1\u0AAE\u0ACD\u0AAE\u0A9F \u0A86\u0A95\u0ABE\u0AB0\u0AA8\u0AC1\u0A82
+      \u0AAC\u0AB0\u0AAB\u0AA8\u0AC1\u0A82 \u0AA5\u0AB0"
     Object: {fileID: 0}
 --- !u!1 &2118517362
 GameObject:
@@ -2775,7 +2808,7 @@ GameObject:
   - component: {fileID: 2118517365}
   - component: {fileID: 2118517364}
   m_Layer: 5
-  m_Name: Horse
+  m_Name: Ice cream
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2812,8 +2845,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7ee4021ce59f313499a5cab041f02aba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: Horse
-  FallbackText: Horse
+  translationName: Ice cream
+  FallbackText: Ice cream
 --- !u!114 &2118517365
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2846,7 +2879,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Horse
+  m_Text: "\u0A86\u0A88\u0AB8\u0ACD\u0A95\u0ACD\u0AB0\u0AC0\u0AAE"
 --- !u!222 &2118517366
 CanvasRenderer:
   m_ObjectHideFlags: 0

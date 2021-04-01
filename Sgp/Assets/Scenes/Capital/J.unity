@@ -540,7 +540,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 951802742}
     m_Modifications:
     - target: {fileID: 100000, guid: 247766e192f437c4680b63372b7cb017, type: 3}
       propertyPath: m_Name
@@ -548,31 +548,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 247766e192f437c4680b63372b7cb017, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 247766e192f437c4680b63372b7cb017, type: 3}
       propertyPath: m_LocalScale.x
-      value: 20
+      value: 15.209125
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 247766e192f437c4680b63372b7cb017, type: 3}
       propertyPath: m_LocalScale.y
-      value: 20
+      value: 15.209126
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 247766e192f437c4680b63372b7cb017, type: 3}
       propertyPath: m_LocalScale.z
-      value: 20
+      value: 15.209125
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 247766e192f437c4680b63372b7cb017, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 11.19
+      value: -391.49048
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 247766e192f437c4680b63372b7cb017, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 38.438244
+      value: -130.46521
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 247766e192f437c4680b63372b7cb017, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -48.5
+      value: -36.88213
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 247766e192f437c4680b63372b7cb017, type: 3}
       propertyPath: m_LocalRotation.w
@@ -730,42 +730,42 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 951802742}
     m_Modifications:
     - target: {fileID: 5185668551966489709, guid: 5b6f9caefa8fc8a4b85d546b9d431bb8,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 5185668551966489709, guid: 5b6f9caefa8fc8a4b85d546b9d431bb8,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 1.5
+      value: 1.1406844
       objectReference: {fileID: 0}
     - target: {fileID: 5185668551966489709, guid: 5b6f9caefa8fc8a4b85d546b9d431bb8,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.5
+      value: 1.1406844
       objectReference: {fileID: 0}
     - target: {fileID: 5185668551966489709, guid: 5b6f9caefa8fc8a4b85d546b9d431bb8,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 1.5
+      value: 1.1406844
       objectReference: {fileID: 0}
     - target: {fileID: 5185668551966489709, guid: 5b6f9caefa8fc8a4b85d546b9d431bb8,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.8
+      value: -398.6312
       objectReference: {fileID: 0}
     - target: {fileID: 5185668551966489709, guid: 5b6f9caefa8fc8a4b85d546b9d431bb8,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 33.28
+      value: -134.38783
       objectReference: {fileID: 0}
     - target: {fileID: 5185668551966489709, guid: 5b6f9caefa8fc8a4b85d546b9d431bb8,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -46.14
+      value: -35.087452
       objectReference: {fileID: 0}
     - target: {fileID: 5185668551966489709, guid: 5b6f9caefa8fc8a4b85d546b9d431bb8,
         type: 3}
@@ -1055,7 +1055,7 @@ Transform:
   - {fileID: 325055296}
   - {fileID: 1056934836}
   m_Father: {fileID: 951802742}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &611317977
 GameObject:
@@ -1121,8 +1121,14 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &614908031 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: 247766e192f437c4680b63372b7cb017,
+    type: 3}
+  m_PrefabInstance: {fileID: 226626203}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &886363995
 GameObject:
   m_ObjectHideFlags: 0
@@ -1438,9 +1444,9 @@ RectTransform:
   - {fileID: 111804760}
   - {fileID: 1940115119}
   - {fileID: 291527242}
-  - {fileID: 1249107908}
   - {fileID: 597657717}
   - {fileID: 1532123547}
+  - {fileID: 1249107908}
   - {fileID: 1785841372}
   - {fileID: 886363996}
   - {fileID: 1348176654}
@@ -1448,8 +1454,10 @@ RectTransform:
   - {fileID: 178885700}
   - {fileID: 1512638094}
   - {fileID: 1650626582}
+  - {fileID: 1256689986}
+  - {fileID: 614908031}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -1876,6 +1884,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1249107907}
   m_PrefabAsset: {fileID: 0}
+--- !u!4 &1256689986 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5185668551966489709, guid: 5b6f9caefa8fc8a4b85d546b9d431bb8,
+    type: 3}
+  m_PrefabInstance: {fileID: 317751457}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1348176653
 GameObject:
   m_ObjectHideFlags: 0
@@ -1889,7 +1903,7 @@ GameObject:
   - component: {fileID: 1348176656}
   - component: {fileID: 1348176655}
   m_Layer: 5
-  m_Name: Jacket
+  m_Name: Jeep
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1926,8 +1940,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7ee4021ce59f313499a5cab041f02aba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: Jacket
-  FallbackText: Jacket
+  translationName: Jeep
+  FallbackText: Jeep
 --- !u!114 &1348176656
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1960,7 +1974,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jacket
+  m_Text: Jeep
 --- !u!222 &1348176657
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2131,7 +2145,7 @@ RectTransform:
   - {fileID: 1141251052}
   - {fileID: 8166272}
   m_Father: {fileID: 951802742}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -2326,7 +2340,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1650626581
 GameObject:
@@ -2634,10 +2648,10 @@ MonoBehaviour:
   data: 0
   entries:
   - Language: English
-    Text: Jacket
+    Text: Jeep
     Object: {fileID: 0}
   - Language: Gujarati
-    Text: "\r\u0A9C\u0AC7\u0A95\u0AC7\u0A9F"
+    Text: "\u0A9C\u0AC0\u0AAA"
     Object: {fileID: 0}
 --- !u!1 &1849733430
 GameObject:
@@ -2893,7 +2907,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1940115117
 GameObject:
